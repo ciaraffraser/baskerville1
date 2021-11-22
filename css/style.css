@@ -63,3 +63,24 @@ a:hover{
 }
 
 /*--Styling Nav--*/
+nav{
+    position:fixed;
+    top:0;
+    left:0;
+    margin:0;
+    width:100%;
+    background:#4f014c;
+    padding:2em 0;
+    font-size:0.75rem;
+}
+
+nav ul{
+    text-align:center;
+    text-transform:uppercase;
+    letter-spacing:1px;
+}
+
+nav ul li{
+    display:inline;
+    margin:20px;
+}
