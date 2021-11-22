@@ -137,13 +137,25 @@ nav a:hover{
 }
 
 
-footer{
+
+footer a{
     text-align:center;
     font-size:0.75rem;
     color:#f7f7f7;
     margin:4rem 0 3em 0;
 }
+footer p{
+    color:#ffe9c4;
+}
+footer {
+    text-align:center;
+}
 
+section ul {
+    color:#4f014c;
+}
 
-
+section li {
+    color:#333;
+}
 
