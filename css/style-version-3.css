@@ -89,7 +89,7 @@ blockquote{
 
 cite{
     font-style: normal;
-    font-size:1rem;
+    font-size:1.2rem;
     color:#333;
 }
 
@@ -136,7 +136,15 @@ nav a:hover{
     transition:all 0.3s ease-in-out;
 }
 
+/*--Image Control--*/
+img{
+    display:block;
+    margin:4em 0;
+    padding:0;
+    max-width:100%;
+}
 
+/*--Footer--*/
 
 footer a{
     text-align:center;
@@ -145,7 +153,7 @@ footer a{
     margin:4rem 0 3em 0;
 }
 footer p{
-    color:#ffe9c4;
+    color:#f7f7f7;
 }
 footer {
     text-align:center;
