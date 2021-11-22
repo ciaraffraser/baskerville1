@@ -27,6 +27,7 @@ section{
 .light{
     color:#ffe9c4;
 }
+
 /*--Typographic styling--*/
 
 header h1 h2 p{
@@ -84,7 +85,8 @@ cite{
 }
 
 a{
-    color:#760071
+    color:#760071;
+    text-decoration:none;
 }
 
 a:hover{
