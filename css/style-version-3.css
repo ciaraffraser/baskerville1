@@ -43,6 +43,7 @@ header h2 {
 header p{
     padding-bottom:4rem;
     font-size:1.3rem;
+    color:#f7f7f7;
 }
 
 h1{
@@ -56,4 +57,9 @@ h3 {
 
 p{
     color:#333
+}
+
+h3{
+    font-size:1.999rem;
+    margin:3em 0 1em 0;
 }
