@@ -25,15 +25,16 @@ section{
 
 .dark{background:#760071}
 
-.light{
-    color:#ffe9c4;
+.light {
+    background:#fff3c5;
+    padding: 2em 0;
+
 }
 
 /*--Typographic styling--*/
 
 header h1 h2 p{
     color:#f7f7f7;
-    padding:2rem 0;
 }
 
 header h1 h2 {
@@ -58,10 +59,12 @@ header p{
     color:#f7f7f7;
 }
 
+
 header h1{
     font-size:5.653rem;
     margin-top:2.7rem;
     color:#f7f7f7;
+    padding: 1em 0;
 }
 
 h3 {
@@ -136,6 +139,25 @@ nav a:hover{
     transition:all 0.3s ease-in-out;
 }
 
+section a{
+    text-align: center;
+}
+/*--Bullet Points--*/
+
+section em{
+    color:#760071;
+    font-style: oblique;
+}
+
+section ul {
+    color:#4f014c;
+}
+
+section li {
+    color:#333;
+    
+}
+
 /*--Image Control--*/
 img{
     display:block;
@@ -159,11 +181,5 @@ footer {
     text-align:center;
 }
 
-section ul {
-    color:#4f014c;
-}
 
-section li {
-    color:#333;
-}
 
