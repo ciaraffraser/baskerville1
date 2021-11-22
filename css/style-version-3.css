@@ -23,3 +23,37 @@ section{
 }
 
 .dark{background:#760071}
+
+/*--Typographic styling--*/
+
+header h1 h2 p{
+    color:f7f7f7;
+    padding:2rem 0;
+}
+
+header h2 {
+    font-style:italic;
+    font-size: 2.827rem;
+    color:#ffeafe;
+    margin-top:-4rem;
+    margin-bottom: -2rem;
+    text-indent:1.5rem;
+}
+
+header p{
+    padding-bottom:4rem;
+    font-size:1.3rem;
+}
+
+h1{
+    font-size:5.653rem;
+    margin-top:5rem;
+}
+
+h3 {
+    color:#760071;
+}
+
+p{
+    color:#333
+}
