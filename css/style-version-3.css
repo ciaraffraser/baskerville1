@@ -65,3 +65,16 @@ h3{
     font-size:1.999rem;
     margin:3em 0 1em 0;
 }
+
+blockquote{
+    font-style:italic;
+    font-size: 1.999rem;
+    color:#760071;
+    hanging-punctuation:first;
+    text-indent:-0.9rem;
+}
+
+cite{
+    font-style: normal;
+    font-size:1rem;
+}
