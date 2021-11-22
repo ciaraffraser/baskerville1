@@ -60,7 +60,7 @@ header p{
 
 header h1{
     font-size:5.653rem;
-    margin-top:5rem;
+    margin-top:2.7rem;
     color:#f7f7f7;
 }
 
@@ -136,20 +136,14 @@ nav a:hover{
     transition:all 0.3s ease-in-out;
 }
 
-hr{
-    margin:100px 0;
-    height:1px;
-    background-color:#4f014c;
-    color:#4f014c;
-    border:0 none;
-}
 
 footer{
     text-align:center;
     font-size:0.75rem;
+    color:#f7f7f7;
     margin:4rem 0 3em 0;
 }
 
-footer a p{
-    color:#ffe9c4
-}
+
+
+
