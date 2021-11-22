@@ -84,3 +84,27 @@ nav ul li{
     display:inline;
     margin:20px;
 }
+
+nav a{
+    color:#f7f7f7;
+}
+
+nav a:hover{
+    border-bottom:none;
+    color:#fc8ebf;
+    transition:all 0.3s ease-in-out;
+}
+
+hr{
+    margin:100px 0;
+    height:1px;
+    background-color:#4f014c;
+    color:#4f014c;
+    border:0 none;
+}
+
+footer{
+    text-align:center;
+    font-size:0.75rem;
+    margin:4rem 0 3em 0;
+}
