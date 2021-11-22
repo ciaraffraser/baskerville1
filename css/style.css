@@ -48,5 +48,16 @@ blockquote{
 cite{
     font-size:0.8rem;
     color:#333333;
-    font-style:normal
+    font-style:normal;
+}
+
+/*--Styling Links--*/
+a{
+    color:#760071;
+    text-decoration:none;
+}
+
+a:hover{
+    color:cadetblue;
+    border-bottom:1px dotted;
 }
