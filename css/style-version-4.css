@@ -170,6 +170,11 @@ img{
     max-width:100%;
 }
 
+img.large{
+    width:max-content;
+
+}
+
 /*--Footer--*/
 
 footer a{
