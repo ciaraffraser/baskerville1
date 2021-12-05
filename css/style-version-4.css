@@ -150,6 +150,7 @@ nav a:hover{
 section em{
     color:#760071;
     font-style: oblique;
+    font-size:x-large;
 }
 
 section ul {
@@ -179,6 +180,9 @@ footer a{
 }
 footer p{
     color:#f7f7f7;
+    font-family:'helvetica';
+    font-style:normal;
+    font-size:xx-small;
 }
 footer {
     text-align:center;
